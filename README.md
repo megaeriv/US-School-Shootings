@@ -108,8 +108,7 @@ Analysis:
 
 # Data Visualization
 
-In addition to exploring the data, I visualized it in R studio using R, as well as in Power BI. Here is the full project you can check out [Premier league 2021-2022](https://github.com/megaeriv/Premier-League-2021-2022-Analysis/blob/main/Premier-League-2021-2022-Analysis.md)
-.
+In addition to exploring the data, I visualized it in R studio using R, as well as in Power BI. Here is the full project you can check out [US School Shooting Analysis](https://github.com/megaeriv/US-School-Shootings/blob/main/US-School-Shootings.md)
 
 Power BI
 ![Power BI First Page](https://user-images.githubusercontent.com/111463558/195843790-0f3ddd38-6fed-44b3-9a3a-90db67cec6da.png)
