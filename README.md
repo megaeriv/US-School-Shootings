@@ -1,6 +1,6 @@
 # Introduction 
 
-This is an Exploratory Data Analysis for School shootings in the US from 2000 to 2021
+This is an Exploratory Data Analysis Project for School shootings in the US from 2000 to 2021 with R programming language
 
 As defined by the Congressional Research Service, mass shootings are multiple firearm-related homicides involving at least four victims at one or more nearby locations. Foreign terrorists are not included.
 
